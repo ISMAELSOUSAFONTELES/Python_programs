@@ -52,4 +52,5 @@ while(True):
         numero2 = float(expressao[1])
     except:
         print("ERROR")
+        exit()
     valor = opera(op, valor, numero2)
