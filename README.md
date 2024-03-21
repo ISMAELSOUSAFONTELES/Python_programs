@@ -1,2 +1,2 @@
 # Python_programs
-some of my ow creations on Python
+some of my own creations on Python
